@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.show {
+  background-color: teal;
+  display: flex;
+
+  padding: 20px;
+margin: 20px;
+justify-content: space-between;
+  border: black solid 3px;
+
+
+}
+
+img {
+  width: 250px;
+  border-radius: 3px;
+  margin: 10px;
+
+ 
+  box-shadow: 10px 10px,grey;
+}
+
+.info {
+  width: 300px;
+  
+
+}
